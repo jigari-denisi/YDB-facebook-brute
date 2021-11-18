@@ -1,8 +1,8 @@
-# YDB-facebook-brute
+# YDB -ს პირადი ფაიზბუკის ბრუტფორსი
 
 ვერსია 2 გამოვა მალე!
 
-# Dayeneba da chartva
+# დაყენება
 
 * git clone https://github.com/jigari-denisi/YDB-facebook-brute
 * cd YDB-facebook-brute
